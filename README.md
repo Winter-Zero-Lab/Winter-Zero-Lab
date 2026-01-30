@@ -50,7 +50,7 @@ My open-source journey is divided into three strategic epochs:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winter-Zero-Lab&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Winter's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Winter-Zero-Lab&show_icons=true&theme=gotham&hide_border=true" alt="Winter's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winter-Zero-Lab&layout=compact&theme=gotham&hide_border=true" alt="Languages" height="150" />
 </div>
 
